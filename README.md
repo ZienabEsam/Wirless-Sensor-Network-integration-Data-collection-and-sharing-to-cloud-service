@@ -20,6 +20,7 @@ Cloud service.
 Inte block diagram the layers of the project, only using Wifi instead of Xbee
 
 To complete the project you will need :
+
 +Wi-Fi module ESP8266-01 (Or any type of wifi modules you prefere)
 + 1* DHT11 Temperature humidity sensor
 + 1* PDU (Power Distribution Unit)
