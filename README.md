@@ -1,4 +1,5 @@
-![IMG_20170602_120447](https://user-images.githubusercontent.com/24304903/130311500-fd20bc07-87bb-46d6-a095-829d5c3ceead.jpg)
+![WSN](https://user-images.githubusercontent.com/24304903/130742790-77f12754-621f-4377-82f3-468c3cbf356b.png)
+
 # Wirless-Sensor-Network-integration-Data-collection-and-sharing-to-cloud-service
 Integration of Wireless sensor Network for data collection and sharing (IoT)
 The basic idea of the prototype is to implement the basic
